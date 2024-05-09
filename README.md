@@ -1,5 +1,7 @@
-### 🧮 Hello!
+### 🧮 Hello
 
+ I'm currently working on WorldEnder.ai; a text adventure RAG about the apocalypse. Through this project we will learn just how far we can push RAG--and in a fun direction (I hope)!
+ 
 <!--
 **keppy/keppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
