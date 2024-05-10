@@ -1,6 +1,6 @@
 ### Welcome 👾
 
-I'm currently working on WorldEnder.ai; an interactive RAG system about (near)extinction events. Through this project we will learn just how far we can push RAG in a fun (read: slightly concerning) direction! 
+I'm currently working on WorldEnder.ai; a text-adventure about extinction events with a RAG backend. Through this project we will learn just how far we can push RAG in a fun (read: slightly concerning) direction!
 
 I publish my findings at [keppylab.com](https://www.keppylab.com)
 
