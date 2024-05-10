@@ -1,6 +1,6 @@
 ### Welcome Travler 🍻
 
-I'm currently working on WorldEnder.ai; an interactive RAG system about the apocalypse. Through this project we will learn just how far we can push RAG in a fun (read: slightly concerning) direction! 
+I'm currently working on WorldEnder.ai; an interactive RAG system about (near)extinction events. Through this project we will learn just how far we can push RAG in a fun (read: slightly concerning) direction! 
 
 I publish my findings at [keppylab.com](https://www.keppylab.com)
 
