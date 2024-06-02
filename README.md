@@ -1,11 +1,14 @@
-### Welcome 👾
+### Welcome 🔭
 
-I'm currently working on WorldEnder.ai; a text-adventure about extinction events with a RAG backend. Through this project we will learn just how far we can push RAG in a fun (read: slightly concerning) direction!
+You can find more of my wirting, findings, and information at [keppylab.com](https://www.keppylab.com)
 
-I publish my findings at [keppylab.com](https://www.keppylab.com)
+#### Current Projects
+[WorldEnder.ai](https://github.com/keppy/WorldEnder.ai) 🌎💥
+A text-adventure about extinction events with a RAG backend
 
-Smooth sailing ⛵
- 
+[Disease Lab](https://github.com/keppy/disease-lab) 🧪
+Knowledge graph informed AI for disease research
+
 <!--
 **keppy/keppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
