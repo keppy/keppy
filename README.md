@@ -1,13 +1,16 @@
-### Welcome 🔭
+### Welcome
 
 You can find more of my wirting, findings, and information at [keppylab.com](https://www.keppylab.com)
 
-#### Current Projects
-[WorldEnder.ai](https://github.com/keppy/WorldEnder.ai) 🌎💥
-A text-adventure about extinction events with a RAG backend
+#### Recent Projects
+[cobol-reporter](https://github.com/keppy/cobol-reporter) 🔭
+A RAG and report generator for helping to understand COBOL code
 
 [Disease Lab](https://github.com/keppy/disease-lab) 🧪
 Knowledge graph informed AI for disease research
+
+[WorldEnder.ai](https://github.com/keppy/WorldEnder.ai) 🌎
+A text-adventure about extinction events with a RAG backend
 
 <!--
 **keppy/keppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
