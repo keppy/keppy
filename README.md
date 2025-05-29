@@ -3,6 +3,9 @@
 You can find more of my wirting, findings, and information at [keppylab.com](https://www.keppylab.com)
 
 #### Recent Projects
+[describe•](https://github.com/keppy/describe)💬
+Speak systems into existence
+
 [cobol-reporter](https://github.com/keppy/cobol-reporter) 🔭
 A RAG and report generator for helping to understand COBOL code
 
