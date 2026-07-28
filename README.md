@@ -3,6 +3,9 @@
 You can find more of my wirting, findings, and information at [keppylab.com](https://www.keppylab.com)
 
 #### Recent Projects
+[gonogo](https://github.com/keppy/gonogo)
+The eval harness from our pilots, open sourced. Scores an agent on your real cases and returns a deployment decision, including "not enough evidence yet."
+
 [describe•](https://github.com/keppy/describe)
 Speak systems into existence
 
@@ -14,6 +17,9 @@ Knowledge graph informed AI for disease research
 
 [WorldEnder.ai](https://github.com/keppy/WorldEnder.ai) 🌎
 A text-adventure about extinction events with a RAG backend
+
+[![Keppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=keppy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **keppy/keppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
