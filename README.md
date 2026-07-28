@@ -4,7 +4,7 @@ You can find more of my wirting, findings, and information at [keppylab.com](htt
 
 #### Recent Projects
 [gonogo](https://github.com/keppy/gonogo)
-The eval harness from our pilots, open sourced. Scores an agent on your real cases and returns a deployment decision, including "not enough evidence yet."
+The eval harness from my implementations, open sourced. Scores an agent on your real cases and returns a deployment decision, including "not enough evidence yet."
 
 [describe•](https://github.com/keppy/describe)
 Speak systems into existence
