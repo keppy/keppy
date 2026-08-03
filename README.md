@@ -1,8 +1,11 @@
 ### Welcome
 
-You can find more of my wirting, findings, and information at [keppylab.com](https://www.keppylab.com)
+You can find more of my writing, findings, and information at [keppylab.com](https://www.keppylab.com)
 
 #### Recent Projects
+[cotfaith](https://github.com/keppy/cotfaith)
+CoT (un)faithfulness, study one: hint-following and confession rates on Qwen3-1.7B — pre-registered decision log, blind-labeled judge validation, byte-exact run artifacts
+
 [gonogo](https://github.com/keppy/gonogo)
 The eval harness from my implementations, open sourced. Scores an agent on your real cases and returns a deployment decision, including "not enough evidence yet."
 
