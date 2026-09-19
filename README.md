@@ -8,6 +8,9 @@ Collective research & writing: [yokozunasan.com](https://www.yokozunasan.com)
 
 
 #### Recent Projects
+[titans-mini](https://github.com/keppy/titans-mini)
+A streaming engine over a swappable test-time memory core (MLP-weights memory vs. generated-weights vector memory)
+
 [thomas](https://github.com/keppy/thomas)
 thomas.train() — a training harness. Case→reward→train: take a Case set and a score function, get a baseline card (gonogo), run a training loop, compare before/after. Two paths: pretrain (Modal GPU) and post-train (Tinker LoRA RL or TRL GRPO + vLLM).
 
