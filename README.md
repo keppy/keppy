@@ -1,8 +1,11 @@
 ### Welcome
 
-You can find more of my writing, findings, and information at [keppylab.com](https://www.keppylab.com)
+Hello, you can find more of my writing, findings, and information at [keppylab.com](https://www.keppylab.com)
 
 #### Recent Projects
+[thomas](https://github.com/keppy/thomas)
+thomas.train() — a training harness. Case→reward→train: take a Case set and a score function, get a baseline card (gonogo), run a training loop, compare before/after. Two paths: pretrain (Modal GPU) and post-train (Tinker LoRA RL or TRL GRPO + vLLM).
+
 [cotfaith](https://github.com/keppy/cotfaith)
 CoT (un)faithfulness, study one: hint-following and confession rates on Qwen3-1.7B — pre-registered decision log, blind-labeled judge validation, byte-exact run artifacts
 
