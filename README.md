@@ -1,11 +1,6 @@
 ### Keppy's Landing Pad
 
-Hello, I work at Stemuli training math tutoring models.
-
 Research bench where you can find open source software and reports: [keppylab.com](https://www.keppylab.com)
-
-Collective research & writing: [yokozunasan.com](https://www.yokozunasan.com)
-
 
 #### Recent Projects
 [titans-mini](https://github.com/keppy/titans-mini)
